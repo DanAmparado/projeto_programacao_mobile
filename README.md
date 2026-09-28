@@ -109,9 +109,9 @@ iOS: abra a câmera nativa do iPhone e escaneie o QR Code.
 
 Se o QR Code não funcionar (redes restritivas, como Wi-Fi de faculdade), use:
 
-    ```bash
-    npx expo start --tunnel
-    ```
+```bash
+npx expo start --tunnel
+```
 
 Fluxo de uso
 
